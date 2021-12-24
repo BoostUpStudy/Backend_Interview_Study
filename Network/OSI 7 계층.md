@@ -175,18 +175,3 @@ OSI 의 가장 낮은 계층으로 다른 물리적 컴퓨터로 전기적 신�
 - TCP 와 UDP 의 차이를 서술해주세요.
 
 - 네트워크 계층과 전송 계층의 차이를 서술해주세요.
-    
-
-## 참고 자료
-
-[OSI 위키](http://wiki.hash.kr/index.php/OSI_7_%EA%B3%84%EC%B8%B5)
-
-[OSI Layer](https://www.geeksforgeeks.org/layers-of-osi-model/)
-
-[OSI Layer 기능](https://www.studytonight.com/computer-networks/osi-model-application-layer)
-
-[브라우저 ≠ Application Layer](https://www.quora.com/What-do-you-mean-by-an-application-layer-in-networking)
-
-[네트워크 계층 vs 전송 계층](https://the-brain-of-sic2.tistory.com/51)
-
-[TCP vs UDP](https://www.lifesize.com/en/blog/tcp-vs-udp/)
