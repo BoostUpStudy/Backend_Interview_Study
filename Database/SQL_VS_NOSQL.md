@@ -93,7 +93,7 @@
 > 
 - Atomicity(원자성): 모든 연산에 대해서 모두 처리/실패 → all-or-nothing
 - Consistency(일관성): 데이터는 미리 정의된 규칙(제약조건, 도메인, ...)에 부합
-- Isolation(일관성): 트랜잭션동안 다른 트랜잭션 간섭 불가
+- Isolation(): 트랜잭션동안 다른 트랜잭션 간섭 불가
 - Durability(지속성): 트랜잭션 이후 데이터들의 영구 보존
 
 ### SQL
