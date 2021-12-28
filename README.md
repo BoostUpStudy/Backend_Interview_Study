@@ -2,8 +2,8 @@
 
 ### 참여자
 | <img src="https://github.com/soosungp33.png" width="80"> | <img src="https://github.com/youjeonghan.png" width="80"> | <img src="https://github.com/dmin0211.png" width="80"> | <img src="https://github.com/9b2n.png" width="80"> | <img src="https://github.com/FloralLife.png" width="80"> | <img src="https://github.com/lee-3-8.png" width="80"> | <img src="https://github.com/isanghaessi.png" width="80"> | 
-| :------: | :------: | :------: | :------: | :------: | :------: | :------: | 
-| **[김영한](https://github.com/soosungp33)** | **[유정한](https://github.com/youjeonghan)** | **[김동민](https://github/com/dmin0211)** | **[방규빈](https://github.com/9b2n)** | **[이유노](https://github.com/FloralLife)** | **[이신필](https://github.com/lee-3-8)**  | **[홍승용](https://github.com/isanghaessi)** |
+| :------: | :------: |:------------------------------------------------------:| :------: | :------: | :------: | :------: | 
+| **[김영한](https://github.com/soosungp33)** | **[유정한](https://github.com/youjeonghan)** | **[김동민](https://github.com/dmin0211)** | **[방규빈](https://github.com/9b2n)** | **[이유노](https://github.com/FloralLife)** | **[이신필](https://github.com/lee-3-8)**  | **[홍승용](https://github.com/isanghaessi)** |
 
 
 ### 그라운드 룰
@@ -27,3 +27,6 @@
     - 내용
     - 예상 질문 리스트
     - 참고자료
+
+- 커밋 양식
+  - [분야(영어)][close #13] : 내용
